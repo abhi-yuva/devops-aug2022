@@ -1,2 +1,4 @@
 this is a second file in my repository
 sample
+i just modified this newfile
+this is new line
