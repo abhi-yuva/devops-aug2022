@@ -1,3 +1,5 @@
 this is a second file in my repository
 sample
 hello
+i just modified this newfile
+this is new line
